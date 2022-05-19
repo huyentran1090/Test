@@ -1,0 +1,105 @@
+body {
+    text-align: left;   
+    font-family: Nunito,sans-serif;
+    background-attachment: scroll;   
+}
+#container {
+    background-color: #081b27;
+    font-weight: bold;
+}
+#navbar {
+    background-color: #0C2738;
+}
+/* #input {
+     margin-right: 200px;
+     margin-left: 200px;
+} */
+h1 {
+    font-size: 35px;
+    color: #F1AB25; 
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 20px;
+    color: #F1AB25;
+    font-weight: bold;
+}
+h5 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-tabs .nav-link {
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #0C2738;
+    color: #374555;
+}
+.card-body {
+    background-color: #081b27;
+    color: antiquewhite;
+    
+}
+
+#point {
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    background-color:#D9A723;
+    color: white;
+    top:-15px;
+}
+.checked {
+    color: #D9A723;
+}
+#rating {
+    padding-top: 15px;
+}
+.tab-content a{
+    color: aliceblue;
+    font-weight: lighter;
+    text-decoration: underline;
+    font-size: 15px;
+
+}
+
+#list-item-point {
+    text-align: center;
+    padding: 3px;
+    border-radius: 25px;
+    background-color:#D9A723;
+    color: white;
+    top: -12px;
+    font-size: 15px;
+}
+#block-item-content h5 {
+    font-size: 15px;
+}
+
+
+footer {
+    text-align: left;
+    background-size: auto, cover;
+    background-position: 50% 50%;
+    background-image: linear-gradient(180deg,#081b27,rgba(8,27,39,.8)),url("https://global-uploads.webflow.com/5fe2d564b3fa64a886a11cee/5fe2d564b3fa643be1a11d52_Photo-8.jpg");
+
+}
+
+.footer a {
+    color:#74a8cf;
+    font-size: 17px;
+    float: left;
+    
+    padding-bottom: 10px;
+    
+}
+a:hover {
+    color: white;
+    text-decoration:none;
+
+}
+.footer span {
+    color: #F1AB25;
+    size: 10px;
+    
+}
